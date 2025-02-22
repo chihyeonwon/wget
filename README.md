@@ -1,2 +1,1 @@
-# wget
-C2 (Command &amp; Control) Server Injection Attack in Wget Site.
+curl ip/ <-경로 일때 다운로드(인바운드) 물론 악성코드가 들어오는 것도 막고 저 경로로 접속하는 것도 막아야 함
